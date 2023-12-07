@@ -375,3 +375,8 @@ nav a:hover {
     padding: 10px;
     text-align: center;
 }
+.responsive-iframe{
+    border-radius: 12px;
+    width: 100%;
+    border: none;
+}
